@@ -1089,9 +1089,9 @@ from urllib.parse import urlparse, parse_qs, unquote
 import hashlib
 
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service
+from selenium.common.exceptions import StaleElementReferenceException
 from webdriver_manager.chrome import ChromeDriverManager
 
 # =========================================================
@@ -1101,7 +1101,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 st.set_page_config(page_title="High Quality Image Scraper", layout="wide")
 
 st.title("🖼️ High-Quality Image Scraper")
-st.caption("Stable downloads | Best quality | Multiple images per item")
+st.caption("Render-safe | Best quality | Multiple images per item")
 
 # =========================================================
 # SESSION STATE INIT
@@ -1109,6 +1109,25 @@ st.caption("Stable downloads | Best quality | Multiple images per item")
 
 if "results" not in st.session_state:
     st.session_state.results = None
+
+# =========================================================
+# DRIVER SETUP (RENDER / CLOUD SAFE)
+# =========================================================
+
+def setup_driver():
+    options = webdriver.ChromeOptions()
+    options.add_argument("--headless")          # REQUIRED for Render
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-gpu")
+    options.add_argument("--window-size=1920,1080")
+    options.add_argument(
+        "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+    )
+
+    service = Service(ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, options=options)
+    return driver
 
 # =========================================================
 # SIDEBAR CONTROLS
@@ -1122,10 +1141,9 @@ taste = st.sidebar.selectbox(
 )
 
 images_per_item = st.sidebar.slider("Images per item", 1, 10, 3)
-headless = st.sidebar.checkbox("Run browser headless", value=True)
 
-MIN_WIDTH = st.sidebar.slider("Min Width", 200, 800, 300)
-MIN_HEIGHT = st.sidebar.slider("Min Height", 200, 800, 300)
+MIN_WIDTH = st.sidebar.slider("Min Width (px)", 200, 800, 300)
+MIN_HEIGHT = st.sidebar.slider("Min Height (px)", 200, 800, 300)
 MIN_SIZE = st.sidebar.slider("Min File Size (KB)", 10, 200, 30) * 1024
 
 # =========================================================
@@ -1139,18 +1157,33 @@ if mode == "Upload CSV":
     file = st.file_uploader("Upload CSV (Item_Name)", type="csv")
     if file:
         df = pd.read_csv(file)
+        if "Item_Name" not in df.columns:
+            st.error("CSV must contain 'Item_Name'")
+            st.stop()
         food_items = df["Item_Name"].dropna().astype(str).tolist()
 else:
     text = st.text_area("Food names (one per line)")
     food_items = [x.strip() for x in text.split("\n") if x.strip()]
 
+st.info(f"Food items loaded: {len(food_items)}")
+
 # =========================================================
-# IMAGE EXTRACTION
+# SAFE ATTRIBUTE ACCESS
+# =========================================================
+
+def safe_get_attr(img, attr):
+    try:
+        return img.get_attribute(attr)
+    except StaleElementReferenceException:
+        return None
+
+# =========================================================
+# IMAGE URL EXTRACTION (UNIVERSAL)
 # =========================================================
 
 def extract_image_url(img):
     for attr in ["data-original", "data-src", "src"]:
-        src = img.get_attribute(attr)
+        src = safe_get_attr(img, attr)
         if not src:
             continue
 
@@ -1168,12 +1201,15 @@ def extract_image_url(img):
     return None
 
 # =========================================================
-# FETCH + SCORE
+# FETCH + SCORE (QUALITY FIRST)
 # =========================================================
 
 def fetch_and_score(url):
     try:
         r = requests.get(url, timeout=6)
+        if r.status_code != 200:
+            return None
+
         img = Image.open(BytesIO(r.content))
         w, h = img.size
         size = len(r.content)
@@ -1199,34 +1235,34 @@ def fetch_and_score(url):
 # =========================================================
 
 def scrape_images(food):
-    options = Options()
-    if headless:
-        options.add_argument("--headless=new")
+    driver = setup_driver()
 
-    driver = webdriver.Chrome(
-        service=Service(ChromeDriverManager().install()),
-        options=options
-    )
-
-    query = food 
+    query = food
     if taste != "None":
         query += " " + taste.lower()
 
     collected = []
 
-    for url in [
+    search_pages = [
         f"https://www.bing.com/images/search?q={query.replace(' ', '+')}",
         f"https://duckduckgo.com/?q={query.replace(' ', '+')}&ia=images&iax=images",
-    ]:
-        driver.get(url)
+    ]
+
+    for page in search_pages:
+        driver.get(page)
         time.sleep(3)
 
-        for img in driver.find_elements(By.TAG_NAME, "img"):
-            img_url = extract_image_url(img)
-            if img_url:
-                data = fetch_and_score(img_url)
-                if data:
-                    collected.append(data)
+        imgs = list(driver.find_elements(By.TAG_NAME, "img"))  # freeze DOM
+
+        for img in imgs:
+            try:
+                img_url = extract_image_url(img)
+                if img_url:
+                    data = fetch_and_score(img_url)
+                    if data:
+                        collected.append(data)
+            except StaleElementReferenceException:
+                continue
 
     driver.quit()
 
@@ -1236,10 +1272,12 @@ def scrape_images(food):
         h = hashlib.md5(img["bytes"]).hexdigest()
         unique[h] = img
 
-    return sorted(unique.values(), key=lambda x: x["score"], reverse=True)[:images_per_item]
+    # Best quality first
+    images = sorted(unique.values(), key=lambda x: x["score"], reverse=True)
+    return images[:images_per_item]
 
 # =========================================================
-# RUN BUTTON
+# RUN SEARCH
 # =========================================================
 
 if st.button("🚀 Start Search") and food_items:
@@ -1257,7 +1295,7 @@ if st.button("🚀 Start Search") and food_items:
     st.session_state.results = all_results
 
 # =========================================================
-# DISPLAY (FROM SESSION STATE)
+# DISPLAY RESULTS
 # =========================================================
 
 if st.session_state.results:
@@ -1286,4 +1324,3 @@ if st.session_state.results:
 
     csv = df.drop(columns=["bytes"]).to_csv(index=False).encode("utf-8")
     st.download_button("⬇️ Download CSV", csv, "images.csv")
-
