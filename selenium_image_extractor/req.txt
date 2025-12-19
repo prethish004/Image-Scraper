@@ -3,4 +3,4 @@ pillow
 pandas
 requests
 webdriver-manager
-steamlit  
+streamlit
