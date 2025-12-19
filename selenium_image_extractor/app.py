@@ -1114,18 +1114,31 @@ if "results" not in st.session_state:
 # DRIVER SETUP (RENDER / CLOUD SAFE)
 # =========================================================
 
+# def setup_driver():
+#     options = webdriver.ChromeOptions()
+#     options.add_argument("--headless")          # REQUIRED for Render
+#     options.add_argument("--no-sandbox")
+#     options.add_argument("--disable-dev-shm-usage")
+#     options.add_argument("--disable-gpu")
+#     options.add_argument("--window-size=1920,1080")
+#     options.add_argument(
+#         "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#     )
+
+#     service = Service(ChromeDriverManager().install())
+#     driver = webdriver.Chrome(service=service, options=options)
+#     return driver
 def setup_driver():
     options = webdriver.ChromeOptions()
-    options.add_argument("--headless")          # REQUIRED for Render
+    options.add_argument("--headless")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--disable-gpu")
     options.add_argument("--window-size=1920,1080")
-    options.add_argument(
-        "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-    )
 
-    service = Service(ChromeDriverManager().install())
+    options.binary_location = "/usr/bin/chromium"
+
+    service = Service("/usr/bin/chromedriver")
     driver = webdriver.Chrome(service=service, options=options)
     return driver
 
