@@ -1,0 +1,216 @@
+Item_id,Category,Item_Name,Price,description,image,available
+1,Breakfast,Idly,,morning,https://example.com/item.jpg,TRUE
+2,Breakfast,Plain Dosai,,"morning, evening, night",https://example.com/item.jpg,TRUE
+3,Breakfast,Egg Dosai,,"morning, evening, night",https://example.com/item.jpg,TRUE
+4,Breakfast,Onion Uthappam,,"morning, evening, night",https://example.com/item.jpg,TRUE
+5,Breakfast,Poori,,"morning, evening, night",https://example.com/item.jpg,TRUE
+6,Breakfast,Chapati,,"morning, evening, night",https://example.com/item.jpg,TRUE
+7,Breakfast,Plain Prata,,"evening, night",https://example.com/item.jpg,TRUE
+8,Breakfast,Egg Prata,,"evening, night",https://example.com/item.jpg,TRUE
+9,Breakfast,Onion Prata,,"evening, night",https://example.com/item.jpg,TRUE
+10,Breakfast,Egg Bread Toast,,morning,https://example.com/item.jpg,TRUE
+11,Breakfast,Raagi Kanchi,,morning,https://example.com/item.jpg,TRUE
+12,Breakfast,Idiyappam,,anytime,https://example.com/item.jpg,TRUE
+13,Breakfast,Puttu,,anytime,https://example.com/item.jpg,TRUE
+14,Breakfast,Vadai,,"morning, evening",https://example.com/item.jpg,TRUE
+15,Breakfast,Curry Puff,,"noon, night",https://example.com/item.jpg,TRUE
+16,Breakfast,Potato Puff,,"morning, evening",https://example.com/item.jpg,TRUE
+17,Breakfast,Pongal,,morning,https://example.com/item.jpg,TRUE
+18,Breakfast,Lemon Rice,,"morning, noon",https://example.com/item.jpg,TRUE
+19,Breakfast,Tomato Rice,,"morning, noon",https://example.com/item.jpg,TRUE
+20,Breakfast,Curd Rice,,"morning, noon",https://example.com/item.jpg,TRUE
+21,Breakfast,Bisibele Bath,,"morning, noon",https://example.com/item.jpg,TRUE
+22,Breakfast,Ghee Rice,,"morning, noon",https://example.com/item.jpg,TRUE
+23,Breakfast,Coconut Rice,,"morning, noon",https://example.com/item.jpg,TRUE
+24,Breakfast,Briyani,,"noon, night",https://example.com/item.jpg,TRUE
+25,Breakfast,Rice (plain),,"morning, noon",https://example.com/item.jpg,TRUE
+26,Breakfast,Panipuri,,anytime,https://example.com/item.jpg,TRUE
+27,Breakfast,Masalapuri,,"noon, night",https://example.com/item.jpg,TRUE
+28,Breakfast,Egg Half Boiled,,anytime,https://example.com/item.jpg,TRUE
+29,Breakfast,Egg Kalaki,,anytime,https://example.com/item.jpg,TRUE
+30,Sides,Tiffen Sambar,,anytime,https://example.com/item.jpg,TRUE
+31,Sides,Coconut Chutney,,anytime,https://example.com/item.jpg,TRUE
+32,Sides,Peanut Chutney,,anytime,https://example.com/item.jpg,TRUE
+33,Sides,Onion Chutney,,anytime,https://example.com/item.jpg,TRUE
+34,Sides,Special Chutney,,anytime,https://example.com/item.jpg,TRUE
+35,Sides,Potato Poori Masala,,"morning, evening, night",https://example.com/item.jpg,TRUE
+36,Sides,Veg Chapati Kuruma,,"morning, evening, night",https://example.com/item.jpg,TRUE
+37,Sides,Prata Salna,,"evening, night",https://example.com/item.jpg,TRUE
+38,Sides,Achar / Raitha,,anytime,https://example.com/item.jpg,TRUE
+39,Sides,Appalam,,anytime,https://example.com/item.jpg,TRUE
+40,Sides,Rasam,,anytime,https://example.com/item.jpg,TRUE
+41,Sides,Butter Milk,,anytime,https://example.com/item.jpg,TRUE
+42,Sides,Veg Curry,,"noon, night",https://example.com/item.jpg,TRUE
+43,Sides,Fish Curry,,"noon, night",https://example.com/item.jpg,TRUE
+44,Sides,Chicken Curry,,"noon, night",https://example.com/item.jpg,TRUE
+45,Sides,Mutton Bone Curry,,"noon, night",https://example.com/item.jpg,TRUE
+46,Sides,Veg Koottu,,"noon, night",https://example.com/item.jpg,TRUE
+47,Sides,Veg Fry / Veg Masala,,"noon, night",https://example.com/item.jpg,TRUE
+48,Sides,Veg Poriyal,,"noon, night",https://example.com/item.jpg,TRUE
+49,Sides,Keerai Dhall,,anytime,https://example.com/item.jpg,TRUE
+50,Sides,Idly Podi with Oil,,anytime,https://example.com/item.jpg,TRUE
+51,Sides,Special Gravy,,"noon, night",https://example.com/item.jpg,TRUE
+52,Sides,Fresh Mixed Veg,,anytime,https://example.com/item.jpg,TRUE
+53,Sides,Sambal,,anytime,https://example.com/item.jpg,TRUE
+54,Sides,Channa Masala,,"noon, night",https://example.com/item.jpg,TRUE
+55,Sides,Churumuri,,anytime,https://example.com/item.jpg,TRUE
+56,Sides,Mixers,,anytime,https://example.com/item.jpg,TRUE
+57,Sides,Rice,,"morning, noon",https://example.com/item.jpg,TRUE
+58,Lunch,Chicken Masala,,"noon, night",https://example.com/item.jpg,TRUE
+59,Lunch,Mutton Masala,,"noon, night",https://example.com/item.jpg,TRUE
+60,Lunch,Prawn Masala,,"noon, night",https://example.com/item.jpg,TRUE
+61,Lunch,Egg Masala,,"noon, night",https://example.com/item.jpg,TRUE
+62,Lunch,Fish Fry,,"noon, evening",https://example.com/item.jpg,TRUE
+63,Lunch,Chicken Fry,,"noon, evening",https://example.com/item.jpg,TRUE
+64,Lunch,Fry Chicken Wing,,"noon, evening",https://example.com/item.jpg,TRUE
+65,Lunch,Fish Curry (Gravy),,"noon, night",https://example.com/item.jpg,TRUE
+66,Lunch,Chicken Gravy,,"noon, night",https://example.com/item.jpg,TRUE
+67,Lunch,Mutton Bone Gravy,,"noon, night",https://example.com/item.jpg,TRUE
+68,Lunch,Egg Gravy,,"noon, night",https://example.com/item.jpg,TRUE
+69,Lunch,Kothu Prata,,"evening, night",https://example.com/item.jpg,TRUE
+70,Lunch,Prata Chicken Lava,,"evening, night",https://example.com/item.jpg,TRUE
+71,Lunch,Prata Mutton Lava,,"evening, night",https://example.com/item.jpg,TRUE
+72,Lunch,Maggi Goreng,,anytime,https://example.com/item.jpg,TRUE
+73,Lunch,Aloo Prata,,"evening, night",https://example.com/item.jpg,TRUE
+74,Lunch,Curry,,"noon, night",https://example.com/item.jpg,TRUE
+75,Lunch,DUM Briyani,,"noon, night",https://example.com/item.jpg,TRUE
+76,Lunch,Chicken Meals,,"noon, night",https://example.com/item.jpg,TRUE
+77,Lunch,Mutton Meals,,"noon, night",https://example.com/item.jpg,TRUE
+78,Lunch,Fish Meals,,"noon, night",https://example.com/item.jpg,TRUE
+79,Lunch,Veg Meals,,"noon, night",https://example.com/item.jpg,TRUE
+80,Lunch,Prawn Meals,,"noon, night",https://example.com/item.jpg,TRUE
+81,Lunch,Chicken Briyani,,"noon, night",https://example.com/item.jpg,TRUE
+82,Lunch,Mutton Briyani,,"noon, night",https://example.com/item.jpg,TRUE
+83,Lunch,Egg Briyani,,"noon, night",https://example.com/item.jpg,TRUE
+84,Lunch,Nethily Sambal,,anytime,https://example.com/item.jpg,TRUE
+85,Lunch,Egg Sambal,,anytime,https://example.com/item.jpg,TRUE
+86,Lunch,Chicken Wing Fry,,"noon, evening",https://example.com/item.jpg,TRUE
+87,Lunch,Chicken Leg,,anytime,https://example.com/item.jpg,TRUE
+88,Lunch,Dry Fish,,anytime,https://example.com/item.jpg,TRUE
+89,Lunch,Pepper Chicken,,anytime,https://example.com/item.jpg,TRUE
+90,Lunch,Fish Tikka,,"noon, evening",https://example.com/item.jpg,TRUE
+91,Lunch,Mutton Chukka,,"noon, evening",https://example.com/item.jpg,TRUE
+92,Snacks,Veg Samosa,,"morning, evening",https://example.com/item.jpg,TRUE
+93,Snacks,Masal Vadai,,"morning, evening",https://example.com/item.jpg,TRUE
+94,Snacks,Bonda Sweet,,"morning, evening",https://example.com/item.jpg,TRUE
+95,Snacks,Bonda Spicy,,"morning, evening",https://example.com/item.jpg,TRUE
+96,Snacks,Bonda Egg,,"morning, evening",https://example.com/item.jpg,TRUE
+97,Snacks,Aloo Bonda,,"morning, evening",https://example.com/item.jpg,TRUE
+98,Snacks,Vazhakkai Bajji,,"morning, evening",https://example.com/item.jpg,TRUE
+99,Snacks,Chilli Bajji,,"morning, evening",https://example.com/item.jpg,TRUE
+100,Snacks,Onion Bajji,,"morning, evening",https://example.com/item.jpg,TRUE
+101,Snacks,Potato Bajji,,"morning, evening",https://example.com/item.jpg,TRUE
+102,Snacks,Onion Pakoda,,"morning, evening",https://example.com/item.jpg,TRUE
+103,Snacks,Peanuts / Channa,,anytime,https://example.com/item.jpg,TRUE
+104,Snacks,Sweet Kesari,,anytime,https://example.com/item.jpg,TRUE
+105,Snacks,Badusha,,anytime,https://example.com/item.jpg,TRUE
+106,Snacks,Cake,,anytime,https://example.com/item.jpg,TRUE
+107,Snacks,Gulab Jamun,,anytime,https://example.com/item.jpg,TRUE
+108,Snacks,Pakoda,,"morning, evening",https://example.com/item.jpg,TRUE
+109,Dosa/Prata,BUN Prata,,"evening, night",https://example.com/item.jpg,TRUE
+110,Dosa/Prata,Dosa Plain,,"morning, evening, night",https://example.com/item.jpg,TRUE
+111,Dosa/Prata,Egg Dosa,,"morning, evening, night",https://example.com/item.jpg,TRUE
+112,Dosa/Prata,Onion Dosa,,"morning, evening, night",https://example.com/item.jpg,TRUE
+113,Dosa/Prata,Masala Dosa,,"morning, evening, night",https://example.com/item.jpg,TRUE
+114,Dosa/Prata,Podi Dosa,,"morning, evening, night",https://example.com/item.jpg,TRUE
+115,Dosa/Prata,Ghee Roast Dosa,,"morning, evening, night",https://example.com/item.jpg,TRUE
+116,Dosa/Prata,Onion Roast Dosa,,"morning, evening, night",https://example.com/item.jpg,TRUE
+117,Dosa/Prata,Egg Roast Dosa,,"morning, evening, night",https://example.com/item.jpg,TRUE
+118,Dosa/Prata,Plain Roast Dosa,,"morning, evening, night",https://example.com/item.jpg,TRUE
+119,Dosa/Prata,Curry Dosa,,"morning, evening, night",https://example.com/item.jpg,TRUE
+120,Dosa/Prata,Ragi Dosa,,"morning, evening, night",https://example.com/item.jpg,TRUE
+121,Dosa/Prata,Raagi Idly,,anytime,https://example.com/item.jpg,TRUE
+122,Drinks,Tea,,anytime,https://example.com/item.jpg,TRUE
+123,Drinks,Teh O,,anytime,https://example.com/item.jpg,TRUE
+124,Drinks,Teh Halia,,anytime,https://example.com/item.jpg,TRUE
+125,Drinks,Teh C,,anytime,https://example.com/item.jpg,TRUE
+126,Drinks,Fresh Ice Lemon Tea,,anytime,https://example.com/item.jpg,TRUE
+127,Drinks,Hot Lemon Tea,,anytime,https://example.com/item.jpg,TRUE
+128,Drinks,Teh Ice,,anytime,https://example.com/item.jpg,TRUE
+129,Drinks,Teh O Ice,,anytime,https://example.com/item.jpg,TRUE
+130,Drinks,Coffee,,anytime,https://example.com/item.jpg,TRUE
+131,Drinks,Kopi O,,anytime,https://example.com/item.jpg,TRUE
+132,Drinks,Bru / Nescafe Coffee,,anytime,https://example.com/item.jpg,TRUE
+133,Drinks,Horlicks,,anytime,https://example.com/item.jpg,TRUE
+134,Drinks,Boost,,anytime,https://example.com/item.jpg,TRUE
+135,Drinks,Milo,,anytime,https://example.com/item.jpg,TRUE
+136,Drinks,Milo Ice,,anytime,https://example.com/item.jpg,TRUE
+137,Drinks,Tea Small Cup,,anytime,https://example.com/item.jpg,TRUE
+138,Drinks,Sukku Coffee,,anytime,https://example.com/item.jpg,TRUE
+139,Drinks,Red Bull,,anytime,https://example.com/item.jpg,TRUE
+140,Drinks,Tin Cool Drinks,,anytime,https://example.com/item.jpg,TRUE
+141,Drinks,Bottle Drinks,,anytime,https://example.com/item.jpg,TRUE
+142,Drinks,POKKA Coffee,,anytime,https://example.com/item.jpg,TRUE
+143,Drinks,Big Bottle Drink,,anytime,https://example.com/item.jpg,TRUE
+144,Drinks,Water Bottle,,anytime,https://example.com/item.jpg,TRUE
+145,Drinks,Big Water Bottle,,anytime,https://example.com/item.jpg,TRUE
+146,Drinks,Lassi,,anytime,https://example.com/item.jpg,TRUE
+147,Drinks,Badam Milk,,anytime,https://example.com/item.jpg,TRUE
+148,Drinks,Fresh Rose Milk,,anytime,https://example.com/item.jpg,TRUE
+149,Drinks,Sarbath,,"morning, noon",https://example.com/item.jpg,TRUE
+150,Drinks,Bangla Drink,,anytime,https://example.com/item.jpg,TRUE
+151,Drinks,Energy Drink Tiger,,anytime,https://example.com/item.jpg,TRUE
+152,Breakfast,Ghee Masala Dosai,,"morning, evening, night",https://example.com/item.jpg,TRUE
+153,Breakfast,Paper Roast Dosai,,"morning, evening, night",https://example.com/item.jpg,TRUE
+154,Lunch,Chicken 65,,"noon, evening, night",https://example.com/item.jpg,TRUE
+155,Lunch,Mutton Sukka,,"noon, night",https://example.com/item.jpg,TRUE
+156,Lunch,Butter Chicken,,"noon, night",https://example.com/item.jpg,TRUE
+157,Lunch,Paneer Butter Masala,,"noon, night",https://example.com/item.jpg,TRUE
+158,Snacks,Gobi Manchurian,,evening,https://example.com/item.jpg,TRUE
+159,Snacks,Chicken Manchurian,,"evening, night",https://example.com/item.jpg,TRUE
+160,Dinner,Mutton Keema Parotta,,"evening, night",https://example.com/item.jpg,TRUE
+161,Lunch,Nasi Briyani,,"noon, night",https://example.com/item.jpg,TRUE
+162,Lunch,Nasi Kandar Curry Set,,noon,https://example.com/item.jpg,TRUE
+163,Dinner,Tandoori Chicken,,"evening, night",https://example.com/item.jpg,TRUE
+164,Breakfast,Poori Masala Set,,morning,https://example.com/item.jpg,TRUE
+165,Lunch,Chicken Keema Chapati,,"noon, night",https://example.com/item.jpg,TRUE
+166,Lunch,Nasi Lemak Set,,"morning, noon",https://example.com/item.jpg,TRUE
+167,Snacks,Mee Goreng Mamak,,"noon, evening, night",https://example.com/item.jpg,TRUE
+168,Snacks,Maggie Goreng Pattaya,,"evening, night",https://example.com/item.jpg,TRUE
+169,Lunch,Chicken Rendang,,"noon, night",https://example.com/item.jpg,TRUE
+170,Lunch,Beef Rendang,,"noon, night",https://example.com/item.jpg,TRUE
+171,Lunch,Ayam Penyet,,"noon, night",https://example.com/item.jpg,TRUE
+172,Lunch,Ikan Penyet,,"noon, night",https://example.com/item.jpg,TRUE
+173,Lunch,Sambal Sotong,,"noon, night",https://example.com/item.jpg,TRUE
+174,Lunch,Char Kway Teow,,"noon, evening",https://example.com/item.jpg,TRUE
+175,Snacks,Chicken Roll,,"evening, night",https://example.com/item.jpg,TRUE
+176,Snacks,Egg Roll,,"evening, night",https://example.com/item.jpg,TRUE
+177,Snacks,Murtabak Chicken,,"evening, night",https://example.com/item.jpg,TRUE
+178,Snacks,Murtabak Mutton,,"evening, night",https://example.com/item.jpg,TRUE
+179,Snacks,Roti John Chicken,,"evening, night",https://example.com/item.jpg,TRUE
+180,Snacks,Roti John Mutton,,"evening, night",https://example.com/item.jpg,TRUE
+181,Snacks,Satay Chicken,,"evening, night",https://example.com/item.jpg,TRUE
+182,Snacks,Satay Mutton,,"evening, night",https://example.com/item.jpg,TRUE
+183,Snacks,Masala Fries,,evening,https://example.com/item.jpg,TRUE
+184,Snacks,Spicy Chicken Popcorn,,evening,https://example.com/item.jpg,TRUE
+185,Snacks,Cheese Fries,,evening,https://example.com/item.jpg,TRUE
+186,Drinks,Teh Tarik Halia,,anytime,https://example.com/item.jpg,TRUE
+187,Drinks,Masala Chai,,anytime,https://example.com/item.jpg,TRUE
+188,Drinks,Milo Dinosaur,,anytime,https://example.com/item.jpg,TRUE
+189,Drinks,Ice Bandung,,anytime,https://example.com/item.jpg,TRUE
+190,Drinks,Thai Milk Tea,,anytime,https://example.com/item.jpg,TRUE
+191,Drinks,Ice Kopi Penguin,,anytime,https://example.com/item.jpg,TRUE
+192,Drinks,Ice Jelly Lime,,anytime,https://example.com/item.jpg,TRUE
+193,Lunch,Nasi Goreng Kampung,,"noon, evening",https://example.com/item.jpg,TRUE
+194,Lunch,Nasi Goreng USA,,"noon, evening",https://example.com/item.jpg,TRUE
+195,Lunch,Nasi Ayam,,noon,https://example.com/item.jpg,TRUE
+196,Lunch,Mee Bandung Muar,,noon,https://example.com/item.jpg,TRUE
+197,Lunch,Laksa Johor,,noon,https://example.com/item.jpg,TRUE
+198,Breakfast,Roti Canai Telur Bawang,,morning,https://example.com/item.jpg,TRUE
+199,Lunch,Chicken Varuval,,"noon, night",https://example.com/item.jpg,TRUE
+200,Lunch,Spicy Sambal Prawn,,"noon, night",https://example.com/item.jpg,TRUE
+201,Lunch,Ayam Masak Merah,,"noon, night",https://example.com/item.jpg,TRUE
+202,Lunch,Telur Itik Masala,,"noon, night",https://example.com/item.jpg,TRUE
+203,Dinner,Cheese Naan,,"evening, night",https://example.com/item.jpg,TRUE
+204,Dinner,Garlic Naan,,"evening, night",https://example.com/item.jpg,TRUE
+205,Dinner,Tandoori Chicken Set,,"evening, night",https://example.com/item.jpg,TRUE
+206,Lunch,Kari Kambing,,"noon, night",https://example.com/item.jpg,TRUE
+207,Lunch,Kari Kepala Ikan,,"noon, night",https://example.com/item.jpg,TRUE
+208,Dinner,Kambing Soup,,"evening, night",https://example.com/item.jpg,TRUE
+209,Snacks,Murtabak Cheese,,"evening, night",https://example.com/item.jpg,TRUE
+210,Snacks,Tosai Tissue,,"morning, evening",https://example.com/item.jpg,TRUE
+211,Dessert,ABC Ice Kacang,,anytime,https://example.com/item.jpg,TRUE
+212,Dessert,Cendol,,anytime,https://example.com/item.jpg,TRUE
+213,Drinks,Milo Godzilla,,anytime,https://example.com/item.jpg,TRUE
+214,Drinks,Bandung Soda,,anytime,https://example.com/item.jpg,TRUE
+215,Drinks,Kopi Cham,,anytime,https://example.com/item.jpg,TRUE

@@ -1,0 +1,216 @@
+Item_id,Category,Item_Name,Price,description,image,available,image_width,image_height,image_size_kb
+1,Breakfast,Idly,,morning,https://recipes.timesofindia.com/photo/54714946.cms,True,450,450,30.1
+2,Breakfast,Plain Dosai,,"morning, evening, night",https://ts1.mm.bing.net/th?id=OIP.6sNaObj8nEOB0uie8gW5uQAAAA&pid=15.1,True,400,400,57.8
+3,Breakfast,Egg Dosai,,"morning, evening, night",https://ts4.mm.bing.net/th?id=OIP.j0PDFVHo-dFu5Jkd390kBgAAAA&pid=15.1,True,400,400,64.5
+4,Breakfast,Onion Uthappam,,"morning, evening, night",https://rakskitchen.net/wp-content/uploads/2013/03/8527219504_0ddb2cde6f_z-360x360.jpg,True,360,360,31.8
+5,Breakfast,Poori,,"morning, evening, night",https://www.subbuskitchen.com/wp-content/uploads/2017/01/Methi-Poori_finalforweb1-400x400.jpg,True,400,400,39.3
+6,Breakfast,Chapati,,"morning, evening, night",https://cafenargun.com/wp-content/uploads/2021/10/Chapati-Recipe-_-How-to-Make-Chapati-_-Quick-Chapati-Recipe-400x400.png,True,400,400,261.5
+7,Breakfast,Plain Prata,,"evening, night",https://ts3.mm.bing.net/th?id=OIP.JC_slYdAK0K8hb3NPKuI9wAAAA&pid=15.1,True,400,400,51.2
+8,Breakfast,Egg Prata,,"evening, night",https://ts3.mm.bing.net/th?id=OIP.AUJp1oJ71SqF1_QByuC9yAAAAA&pid=15.1,True,400,400,52.5
+9,Breakfast,Onion Prata,,"evening, night",https://ts2.mm.bing.net/th?id=OIP.x17-prJT3gBLASIfqMTP3AAAAA&pid=15.1,True,400,400,56.0
+10,Breakfast,Egg Bread Toast,,morning,https://ts2.mm.bing.net/th?id=OIP.L9A-5WuprhpFnmgwRN6cgwAAAA&pid=15.1,True,474,395,39.9
+11,Breakfast,Raagi Kanchi,,morning,https://revi.b-cdn.net/wp-content/uploads/2017/04/ragi-kanji-main-480x480.jpg,True,480,480,42.4
+12,Breakfast,Idiyappam,,anytime,https://nishkitchen.com/wp-content/uploads/2016/03/IDIYAPPAM-1b-480x480.jpg,True,480,480,48.2
+13,Breakfast,Puttu,,anytime,https://www.subbuskitchen.com/wp-content/uploads/2020/05/Puttu_final2-1-1024x681-1-400x400.jpg,True,400,400,30.5
+14,Breakfast,Vadai,,"morning, evening",https://traditionallymodernfood.com/wp-content/uploads/2022/02/sabudana-vada-javvarisi-vadai-59-768x768.jpeg,True,768,768,103.8
+15,Breakfast,Curry Puff,,"noon, night",https://ts1.mm.bing.net/th?id=OIP.La8veIDl86T3Qs4rZnYa9wAAAA&pid=15.1,True,474,474,29.1
+16,Breakfast,Potato Puff,,"morning, evening",https://allmomsrecipes.com/wp-content/uploads/2025/02/image-40-360x361.png,True,360,361,191.8
+17,Breakfast,Pongal,,morning,https://www.indianhealthyrecipes.com/wp-content/uploads/2021/01/sweet-pongal-chakkara-pongal-500x500.jpg,True,500,500,59.5
+18,Breakfast,Lemon Rice,,"morning, noon",https://recipes.timesofindia.com/photo/53870704.cms,True,450,450,139.2
+19,Breakfast,Tomato Rice,,"morning, noon",https://www.bbcgoodfoodme.com/assets/legacy/recipe/recipe-image/2018/07/mexican-rice.jpg,True,440,400,100.1
+20,Breakfast,Curd Rice,,"morning, noon",https://www.mapsofindia.com/ci-moi-images/my-india/Curd-Rice-665x440.jpg,True,665,440,100.3
+21,Breakfast,Bisibele Bath,,"morning, noon",https://myfoodstory.com/wp-content/uploads/2023/12/Millet-Bisi-Bele-Bath-13-400x400.jpg,True,400,400,67.7
+22,Breakfast,Ghee Rice,,"morning, noon",https://mysorecafe.com.au/wp-content/uploads/2022/07/Ghee-Rice.png,True,450,450,321.0
+23,Breakfast,Coconut Rice,,"morning, noon",https://ts3.mm.bing.net/th?id=OIP.nenL1G8wGkkLYxzVPfAgBQAAAA&pid=15.1,True,474,474,65.6
+24,Breakfast,Briyani,,"noon, night",https://salsabd.com/wp-content/uploads/2023/06/KacchiBiryaniMutton_large.webp,True,480,480,107.6
+25,Breakfast,Rice (plain),,"morning, noon",https://ts2.mm.bing.net/th?id=OIP.yrRwTSicKU78--rIrNsSHgAAAA&pid=15.1,True,474,417,33.8
+26,Breakfast,Panipuri,,anytime,https://www.sailusfood.com/wp-content/uploads/2010/02/pani-puri.jpg,True,357,475,117.6
+27,Breakfast,Masalapuri,,"noon, night",https://ts2.mm.bing.net/th?id=OIP.0Ayzwz2qygqs2gz5mzsIdQHaFj&pid=15.1,True,474,355,67.3
+28,Breakfast,Egg Half Boiled,,anytime,https://i.ytimg.com/vi/Hc5t6BoYGc0/hqdefault.jpg,True,480,360,21.3
+29,Breakfast,Egg Kalaki,,anytime,https://i.ytimg.com/vi/UYF7Lm57cXo/hqdefault.jpg,True,480,360,50.2
+30,Sides,Tiffen Sambar,,anytime,https://ts1.mm.bing.net/th?id=OIP.CekbXdFpNEcb2Dl2-ZJeawAAAA&pid=15.1,True,474,474,41.1
+31,Sides,Coconut Chutney,,anytime,https://www.mapsofindia.com/ci-moi-images/my-india/Coconut-chutney-665x468.jpg,True,665,468,94.8
+32,Sides,Peanut Chutney,,anytime,https://ts1.mm.bing.net/th?id=OIP.BArnP9zXv5Im0kRQEB1WwAAAAA&pid=15.1,True,400,400,34.1
+33,Sides,Onion Chutney,,anytime,https://ts1.mm.bing.net/th?id=OIP.HJq0hbDnWTQIHvDd4m6N5gAAAA&pid=15.1,True,474,474,45.7
+34,Sides,Special Chutney,,anytime,https://ts1.mm.bing.net/th?id=OIP.HJq0hbDnWTQIHvDd4m6N5gAAAA&pid=15.1,True,474,474,45.7
+35,Sides,Potato Poori Masala,,"morning, evening, night",https://www.mycookingjourney.com/wp-content/uploads/2011/12/potato-masala-for-poori-13-480x480.jpg,True,480,480,25.7
+36,Sides,Veg Chapati Kuruma,,"morning, evening, night",https://ts2.mm.bing.net/th?id=OIP.oHRT65He_-ypcPmFyyjDXgAAAA&pid=15.1,True,474,474,73.2
+37,Sides,Prata Salna,,"evening, night",https://www.sailusfood.com/wp-content/uploads/2013/12/parotta.jpg,True,317,475,138.8
+38,Sides,Achar / Raitha,,anytime,https://www.indianhealthyrecipes.com/wp-content/uploads/2019/09/raita-500x500.jpg,True,500,500,59.9
+39,Sides,Appalam,,anytime,https://mylaporeganapathys.com/wp-content/uploads/2025/05/dhal-appalam.jpg,True,450,450,62.3
+40,Sides,Rasam,,anytime,https://recipes.timesofindia.com/photo/53552165.cms,True,450,450,144.4
+41,Sides,Butter Milk,,anytime,https://ts3.mm.bing.net/th?id=OIP.SDB0y1oKkgKXLDk1FpMNEgAAAA&pid=15.1,True,474,474,36.0
+42,Sides,Veg Curry,,"noon, night",https://vaya.in/recipes/wp-content/uploads/2018/03/Vegetable-Curry.jpg,True,800,533,218.0
+43,Sides,Fish Curry,,"noon, night",https://thecookspyjamas.com/wp-content/uploads/Quick-Fish-Curry-550-thumbnail.jpg,True,550,550,87.5
+44,Sides,Chicken Curry,,"noon, night",https://ts3.mm.bing.net/th?id=OIP.XwgoagCnu-RMz6KoNrLEQgAAAA&pid=15.1,True,474,474,44.5
+45,Sides,Mutton Bone Curry,,"noon, night",https://recipes.timesofindia.com/photo/53975304.cms,True,450,450,139.6
+46,Sides,Veg Koottu,,"noon, night",https://i.ytimg.com/vi/im5FQsa9dNo/hqdefault.jpg,True,480,360,38.4
+47,Sides,Veg Fry / Veg Masala,,"noon, night",https://ts2.mm.bing.net/th?id=OIP.TaT7FLyJUPSYZYCCp_HWxQAAAA&pid=15.1,True,474,474,40.3
+48,Sides,Veg Poriyal,,"noon, night",https://www.subbuskitchen.com/wp-content/uploads/2015/01/Kadamba-Curry_web1-400x400.jpg,True,400,400,40.5
+49,Sides,Keerai Dhall,,anytime,https://i.pinimg.com/originals/ac/cb/0f/accb0f2a1fadba4838134097dc5bb885.png,True,320,400,298.0
+50,Sides,Idly Podi with Oil,,anytime,https://vaya.in/recipes/wp-content/uploads/2019/10/Idli-Podi-and-Podi-Idly.jpg,True,480,320,87.0
+51,Sides,Special Gravy,,"noon, night",https://ts4.mm.bing.net/th?id=OIP.w_R9tL_I9Ka1P_cb-KQlswHaHa&pid=15.1,True,474,474,41.2
+52,Sides,Fresh Mixed Veg,,anytime,https://satinbakehousecafe.com/wp-content/uploads/2023/05/INDIAN-MIXED-VEG-SALAD-1.jpg,True,368,444,167.6
+53,Sides,Sambal,,anytime,https://www.196flavors.com/wp-content/uploads/2020/09/sambal-1-FP.jpeg,True,680,680,27.5
+54,Sides,Channa Masala,,"noon, night",https://www.thecuriouschickpea.com/wp-content/uploads/2018/08/chana-masala-2-480x480.jpg,True,480,480,139.0
+55,Sides,Churumuri,,anytime,https://i.ytimg.com/vi/mXa--8Pf4Ts/hqdefault.jpg,True,480,360,43.9
+56,Sides,Mixers,,anytime,https://m.media-amazon.com/images/I/41VOK5yKWwL._AC_.jpg,True,490,497,24.9
+57,Sides,Rice,,"morning, noon",https://ts2.mm.bing.net/th?id=OIP.XDNf-G9AquxLjoaQrAemQAAAAA&pid=15.1,True,474,474,42.0
+58,Lunch,Chicken Masala,,"noon, night",https://ts4.mm.bing.net/th?id=OIP.PzKfvCHJWA3TRoj9o51PjQAAAA&pid=15.1,True,474,474,32.9
+59,Lunch,Mutton Masala,,"noon, night",https://www.snazzycuisine.com/wp-content/uploads/2020/02/Mutton-masala-480x450.jpg,True,480,450,35.6
+60,Lunch,Prawn Masala,,"noon, night",https://hungryforever.net/wp-content/uploads/2018/06/prawn-masala-recipe.png,True,453,302,303.3
+61,Lunch,Egg Masala,,"noon, night",https://www.indianhealthyrecipes.com/wp-content/uploads/2018/07/egg-masala-gravy-recipe-500x500.jpg,True,500,500,59.9
+62,Lunch,Fish Fry,,"noon, evening",https://nishkitchen.com/wp-content/uploads/2015/04/Chettinad-fish-fry-1B-480x480.jpg,True,480,480,63.4
+63,Lunch,Chicken Fry,,"noon, evening",https://as2.ftcdn.net/v2/jpg/03/65/12/97/1000_F_365129717_6YKj1IarmCUO3JkvOFwwjX1awd86o5Jk.jpg,True,1000,667,431.6
+64,Lunch,Fry Chicken Wing,,"noon, evening",https://cravingtasty.com/wp-content/uploads/2019/11/Fried-Chicken-Wings-10.jpg,True,750,750,84.8
+65,Lunch,Fish Curry (Gravy),,"noon, night",https://www.indianhealthyrecipes.com/wp-content/uploads/2021/10/fish-curry-recipe-500x500.jpg,True,500,500,56.0
+66,Lunch,Chicken Gravy,,"noon, night",https://ts1.mm.bing.net/th?id=OIP.sriPDz5sg52dz8OvGMJwmAHaHa&pid=15.1,True,474,474,68.0
+67,Lunch,Mutton Bone Gravy,,"noon, night",https://ts3.mm.bing.net/th?id=OIP.rgScjYO4-Azdj7lhtHQoNgHaHa&pid=15.1,True,474,474,52.7
+68,Lunch,Egg Gravy,,"noon, night",https://www.indianhealthyrecipes.com/wp-content/uploads/2018/07/egg-masala-gravy-recipe-500x500.jpg,True,500,500,59.9
+69,Lunch,Kothu Prata,,"evening, night",https://ts1.mm.bing.net/th?id=OIP.x6bRN1VPaUaT_LyweKJ2LgHaHa&pid=15.1,True,474,474,64.2
+70,Lunch,Prata Chicken Lava,,"evening, night",https://ts1.mm.bing.net/th?id=OIP.nY3KGbstdYI4yQVMyCNbSgAAAA&pid=15.1,True,400,400,53.6
+71,Lunch,Prata Mutton Lava,,"evening, night",https://ts2.mm.bing.net/th?id=OIP.AnXHW_9pDjP_Vk_bq6J39AAAAA&pid=15.1,True,400,400,56.0
+72,Lunch,Maggi Goreng,,anytime,https://ts4.mm.bing.net/th?id=OIP.PbxqvtYExDMZXx3X4E0OUQAAAA&pid=15.1,True,400,400,42.7
+73,Lunch,Aloo Prata,,"evening, night",https://ts2.mm.bing.net/th?id=OIP.SU-Zz8Nm6bRgoji_-17WfwAAAA&pid=15.1,True,474,474,47.5
+74,Lunch,Curry,,"noon, night",https://i.pinimg.com/originals/4e/83/56/4e8356c5d48c244a2480f94965bfc04d.jpg,True,768,768,106.8
+75,Lunch,DUM Briyani,,"noon, night",https://www.sugarspicenmore.com/wp-content/uploads/2021/02/Biryani-4-1-1024x642.jpg,True,1024,642,169.2
+76,Lunch,Chicken Meals,,"noon, night",https://ts4.mm.bing.net/th?id=OIP.R5ntIjk21RMj74trhUouWAAAAA&pid=15.1,True,474,474,60.5
+77,Lunch,Mutton Meals,,"noon, night",https://recipes.timesofindia.com/photo/53975304.cms,True,450,450,139.6
+78,Lunch,Fish Meals,,"noon, night",https://ts3.mm.bing.net/th?id=OIP.JUAMtHHQ5e0vpcnVCRSrwQAAAA&pid=15.1,True,474,474,60.3
+79,Lunch,Veg Meals,,"noon, night",https://ts2.mm.bing.net/th?id=OIP.KTHUkZ_-nx41jyNCw7SKdQAAAA&pid=15.1,True,474,474,73.0
+80,Lunch,Prawn Meals,,"noon, night","https://hips.hearstapps.com/goodhousekeeping-uk/main/galleries/22801/prawn-pepper-curry-recipe-good-housekeeping.jpg?crop=1xw:1.0xh;center,top&resize=980:*",True,496,496,58.3
+81,Lunch,Chicken Briyani,,"noon, night",https://www.licious.in/blog/wp-content/uploads/2022/06/kolkata-biryani.jpg,True,900,900,249.6
+82,Lunch,Mutton Briyani,,"noon, night",https://salsabd.com/wp-content/uploads/2023/06/KacchiBiryaniMutton_large.webp,True,480,480,107.6
+83,Lunch,Egg Briyani,,"noon, night",https://eggcellent.recipes/wp-content/uploads/2024/07/Egg-Biryani-Recipe-300x300.png,True,300,300,217.7
+84,Lunch,Nethily Sambal,,anytime,https://2.bp.blogspot.com/-KI7JeV7W2uA/TZsvHPAW13I/AAAAAAAAD-0/98f-V7OIfLM/s1600/Nethili+sambal5.JPG,True,403,403,133.9
+85,Lunch,Egg Sambal,,anytime,https://i.ytimg.com/vi/SdA79AmAi1s/hqdefault.jpg,True,480,360,53.0
+86,Lunch,Chicken Wing Fry,,"noon, evening",https://i.pinimg.com/736x/4a/b0/e3/4ab0e3a8ec0bc57f3df126949a046e9c.jpg,True,480,480,63.6
+87,Lunch,Chicken Leg,,anytime,https://ts3.mm.bing.net/th?id=OIP.QIfrLFqWwjVt3pYiLeqR-AAAAA&pid=15.1,True,474,474,72.7
+88,Lunch,Dry Fish,,anytime,https://target.scene7.com/is/image/Target/GUEST_7b3c7977-901c-40a7-888d-e3ba931632d4?wid=488&hei=488&fmt=pjpeg,True,488,488,30.1
+89,Lunch,Pepper Chicken,,anytime,https://ts4.mm.bing.net/th?id=OIP.YQS6wDISJIGgfylW5Fy5ZQAAAA&pid=15.1,True,474,474,61.5
+90,Lunch,Fish Tikka,,"noon, evening",https://nishkitchen.com/wp-content/uploads/2019/02/Fish-tikka-1B-480x480.jpg,True,480,480,59.6
+91,Lunch,Mutton Chukka,,"noon, evening",https://ts4.mm.bing.net/th?id=OIP.KWykOtjRZLQ1hC7ejs8RawAAAA&pid=15.1,True,400,400,20.4
+92,Snacks,Veg Samosa,,"morning, evening",https://ts4.mm.bing.net/th?id=OIP.dgA5d6Z1JBJ3Ea1txlI0PAAAAA&pid=15.1,True,400,400,32.3
+93,Snacks,Masal Vadai,,"morning, evening",https://www.subbuskitchen.com/wp-content/uploads/2014/01/MAsala-Vadai_finalforweb1-400x400.jpg,True,400,400,28.8
+94,Snacks,Bonda Sweet,,"morning, evening",https://i.ytimg.com/vi/gXAtxjvnm9A/hqdefault.jpg,True,480,360,34.1
+95,Snacks,Bonda Spicy,,"morning, evening",https://ts2.mm.bing.net/th?id=OIP.SztxiAeY0qHKjTZIGUrQBAAAAA&pid=15.1,True,360,360,16.6
+96,Snacks,Bonda Egg,,"morning, evening",https://i.ytimg.com/vi/7jOo4aDEQ6M/hqdefault.jpg,True,480,360,37.7
+97,Snacks,Aloo Bonda,,"morning, evening",https://ts1.mm.bing.net/th?id=OIP.8il7FjFKzqO5y1s6527NywAAAA&pid=15.1,True,420,420,32.9
+98,Snacks,Vazhakkai Bajji,,"morning, evening",https://www.subbuskitchen.com/wp-content/uploads/2019/06/Vazhakkai-Bajji_final1-1024x681-400x400.jpg,True,400,400,30.2
+99,Snacks,Chilli Bajji,,"morning, evening",https://ts1.mm.bing.net/th?id=OIP.9yuGOnJqGvzPlFA3oY2-NgAAAA&pid=15.1,True,474,474,58.5
+100,Snacks,Onion Bajji,,"morning, evening",https://ts1.mm.bing.net/th?id=OIP.sQNueOxwP_bPia-KzehgNAAAAA&pid=15.1,True,400,400,42.0
+101,Snacks,Potato Bajji,,"morning, evening",https://ts4.explicit.bing.net/th?id=OIP.JFz-gaeqz-U8JXhWWIjBJQAAAA&pid=15.1,True,360,480,37.5
+102,Snacks,Onion Pakoda,,"morning, evening",https://ts3.mm.bing.net/th?id=OIP.z2nLGp8OFmJtTuE_03RfrQAAAA&pid=15.1,True,474,474,51.9
+103,Snacks,Peanuts / Channa,,anytime,https://shopgulab.com/wp-content/uploads/2019/10/gulab-combo-peanut-chana-8-450x450.png,True,450,450,48.4
+104,Snacks,Sweet Kesari,,anytime,https://cdn.shopify.com/s/files/1/0510/9556/8581/files/rava_kesari_480x480.jpg?v=1690798226,True,480,480,89.7
+105,Snacks,Badusha,,anytime,https://www.subbuskitchen.com/wp-content/uploads/2015/10/Badusha_finalforweb4-400x400.jpg,True,400,400,41.7
+106,Snacks,Cake,,anytime,https://ts3.mm.bing.net/th?id=OIP.iSdcqS16W4oCcmD8F7FOmQHaGS&pid=15.1,True,474,402,22.8
+107,Snacks,Gulab Jamun,,anytime,https://tzmedia.b-cdn.net/media/images/component/cuisine/cover/0ad332eb3701a2ee717cbf8203ddb3f0.jpg,True,600,504,86.8
+108,Snacks,Pakoda,,"morning, evening",https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/vegetable-pakora-recipe-500x500.jpg,True,500,500,61.6
+109,Dosa/Prata,BUN Prata,,"evening, night",https://c1.staticflickr.com/3/2806/34257467046_6e76b97b9b_b.jpg,True,1024,683,268.8
+110,Dosa/Prata,Dosa Plain,,"morning, evening, night",https://ts4.mm.bing.net/th?id=OIP.PN7iHJmUOl9NitBhl011tgAAAA&pid=15.1,True,474,474,57.2
+111,Dosa/Prata,Egg Dosa,,"morning, evening, night",https://ts1.mm.bing.net/th?id=OIP.BENTW0n1nSGpsRNuYdHAygAAAA&pid=15.1,True,360,360,31.0
+112,Dosa/Prata,Onion Dosa,,"morning, evening, night",https://ts1.mm.bing.net/th?id=OIP.x2VD-UrZkw3CJ_KI5e6KigAAAA&pid=15.1,True,472,472,42.9
+113,Dosa/Prata,Masala Dosa,,"morning, evening, night",https://yummyindiankitchen.com/wp-content/uploads/2016/02/Masala-Dosa.jpg,True,700,525,124.7
+114,Dosa/Prata,Podi Dosa,,"morning, evening, night",https://ts4.mm.bing.net/th?id=OIP.NSLGovy799QOyCnm1hRcjwHaHa&pid=15.1,True,474,474,28.4
+115,Dosa/Prata,Ghee Roast Dosa,,"morning, evening, night",https://ts2.mm.bing.net/th?id=OIP.65IrHxnhjT8p-ERGJMj_FQAAAA&pid=15.1,True,420,420,17.5
+116,Dosa/Prata,Onion Roast Dosa,,"morning, evening, night",https://cdn.uengage.io/uploads/6327/image-619461-1648964865.jpeg,True,400,400,32.4
+117,Dosa/Prata,Egg Roast Dosa,,"morning, evening, night",https://yummyindiankitchen.com/wp-content/uploads/2018/02/egg-dosa-recipe-320x320.jpg,True,320,320,19.3
+118,Dosa/Prata,Plain Roast Dosa,,"morning, evening, night",https://ts4.mm.bing.net/th?id=OIP.GzRe8XcqusNjrUIctoPGBwAAAA&pid=15.1,True,300,300,18.0
+119,Dosa/Prata,Curry Dosa,,"morning, evening, night",https://media.istockphoto.com/id/2153019293/vector/south-indian-curry-dosa.jpg?s=170667a&w=0&k=20&c=rYpGORgyE6icBOiscNn3xjtTm5GCQqMZ2gLBY_QmVlM=,True,479,359,38.2
+120,Dosa/Prata,Ragi Dosa,,"morning, evening, night",https://ts2.mm.bing.net/th?id=OIP._zt5ICl00d6th50pu-M8ZAAAAA&pid=15.1,True,474,474,44.6
+121,Dosa/Prata,Raagi Idly,,anytime,https://ts4.mm.bing.net/th?id=OIP.NLhZf6hjAs0lScQXTUps9QHaHa&pid=15.1,True,474,474,35.2
+122,Drinks,Tea,,anytime,"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/afternoon_tea_sandwiches-25ebaad.jpg?resize=960,872?quality=90&resize=556,505",True,400,400,30.1
+123,Drinks,Teh O,,anytime,https://www.ayamgepuktopglobal.my/wp-content/uploads/2024/01/teh-o-panas.jpg,True,400,400,40.8
+124,Drinks,Teh Halia,,anytime,https://munchmalaysia.com/wp-content/uploads/2023/07/9GAG.jpg,True,460,434,38.3
+125,Drinks,Teh C,,anytime,https://ikanmas.in/wp-content/uploads/2022/08/TehCSpecial-400x400.jpg,True,400,400,39.6
+126,Drinks,Fresh Ice Lemon Tea,,anytime,https://rakskitchen.net/wp-content/uploads/2014/06/14141641837_b528fd2d55_z-500x500.jpg,True,500,500,45.6
+127,Drinks,Hot Lemon Tea,,anytime,https://i.pinimg.com/originals/5c/3b/14/5c3b1482b5a3a049c34f5212770a1a34.jpg,True,480,427,17.7
+128,Drinks,Teh Ice,,anytime,https://www.errenskitchen.com/wp-content/uploads/2014/08/lemon-Iced-Tea-500x500.jpg,True,500,500,43.5
+129,Drinks,Teh O Ice,,anytime,https://ts4.mm.bing.net/th?id=OIP.Wx0iRFYgPmFMmUX_yTIwJAAAAA&pid=15.1,True,400,400,18.4
+130,Drinks,Coffee,,anytime,https://thejigsawpuzzles.com/img-puzzle-6365010-1024/coffee,True,1024,745,331.3
+131,Drinks,Kopi O,,anytime,https://beecoffee.com.my/wp-content/uploads/2020/09/Economy-BEE-2in1-Kopi-O-480x480.png,True,480,480,166.3
+132,Drinks,Bru / Nescafe Coffee,,anytime,https://i0.wp.com/pediaa.com/wp-content/uploads/2020/10/Difference-Between-Bru-and-Nescafe-Comparison-Summary.jpg?resize=475%2C481&ssl=1,True,475,481,47.0
+133,Drinks,Horlicks,,anytime,https://ts3.mm.bing.net/th?id=OIP.8BTbNhZQghtSZzZ_LtlwmgAAAA&pid=15.1,True,474,358,36.9
+134,Drinks,Boost,,anytime,https://nurturemygut.com/wp-content/uploads/2021/01/10-Naturally-Immune-Boosting-Foods.png,True,825,550,197.9
+135,Drinks,Milo,,anytime,https://caribbeanchoicevarieties.com/wp-content/uploads/2020/12/NestleMiloEnergyFoodDrink700g.png,True,403,496,246.4
+136,Drinks,Milo Ice,,anytime,https://cdn.store-assets.com/s/402748/i/48681451.jpeg,True,480,480,93.6
+137,Drinks,Tea Small Cup,,anytime,https://i.pinimg.com/originals/36/21/60/362160534703d4814db8fbe58da07211.png,True,360,360,69.2
+138,Drinks,Sukku Coffee,,anytime,https://traditionallymodernfood.com/wp-content/uploads/2022/11/sukku-coffee-sukku-malli-kaapi-20-360x361.jpeg,True,360,361,31.9
+139,Drinks,Red Bull,,anytime,https://assets.wakefern.com/is/image/wakefern/61126942672-024?$Mi9Product_detail$,True,500,500,204.8
+140,Drinks,Tin Cool Drinks,,anytime,https://pngpix.com/images/hd/assorted-popular-cold-drinks-collection-ip1ox79ajvmhg642.jpg,True,322,316,215.4
+141,Drinks,Bottle Drinks,,anytime,https://www.lidl.pt/static/assets/sz0375-FoodINBottle-1273640.png,True,375,375,209.8
+142,Drinks,POKKA Coffee,,anytime,https://ts1.mm.bing.net/th?id=OIP.ioaqE-paSIQoNEye7Yl-iwHaHa&pid=15.1,True,474,474,21.4
+143,Drinks,Big Bottle Drink,,anytime,https://www.kroger.com/product/images/large/front/0007181700021,True,500,500,18.7
+144,Drinks,Water Bottle,,anytime,https://ts2.mm.bing.net/th?id=OIP.lwN-kXnWV7sBx8BZfqN-CwAAAA&pid=15.1,True,400,400,31.4
+145,Drinks,Big Water Bottle,,anytime,https://www.chillys.com/cdn/shop/files/2_f96229cf-1900-4d49-b2cb-c7a4d2a92443.png?v=1745409342&width=400,True,400,471,332.0
+146,Drinks,Lassi,,anytime,https://ts4.mm.bing.net/th?id=OIP.kI0vgoyFIr7O2UlxQCLWDAHaHa&pid=15.1,True,474,474,23.5
+147,Drinks,Badam Milk,,anytime,https://ts3.mm.bing.net/th?id=OIP.Atz8JthM0myDUecnAr7tpQAAAA&pid=15.1,True,474,474,64.7
+148,Drinks,Fresh Rose Milk,,anytime,https://www.spiceupthecurry.com/wp-content/uploads/2023/04/rose-milk-recipe-3-500x500.jpg,True,500,500,36.9
+149,Drinks,Sarbath,,"morning, noon",https://www.plattershare.com/storage/2021/09/5aa294ee064ef-375x375.jpg,True,375,375,31.5
+150,Drinks,Bangla Drink,,anytime,https://2.bp.blogspot.com/-D6hPD7eeA20/VPXBreWh8gI/AAAAAAAADk0/bzjNWWnHcc4/s1600/Milkshake%2Bof%2Bstrawberry.png,True,337,493,133.8
+151,Drinks,Energy Drink Tiger,,anytime,https://ts4.mm.bing.net/th?id=OIP.7uuJ9-T1ftFoluwdFxZn8AHaHa&pid=15.1,True,474,474,20.0
+152,Breakfast,Ghee Masala Dosai,,"morning, evening, night",https://ts3.mm.bing.net/th?id=OIP.XuPgH9O_OLwAEuQuQPTyuQAAAA&pid=15.1,True,400,400,53.4
+153,Breakfast,Paper Roast Dosai,,"morning, evening, night",https://ts4.mm.bing.net/th?id=OIP.jNNWV3vZyBT0bACVoS9AlwAAAA&pid=15.1,True,464,464,15.4
+154,Lunch,Chicken 65,,"noon, evening, night",https://tasteasianfood.com/wp-content/uploads/2022/11/chicken-65-recipe-square-480x480.jpeg,True,480,480,75.4
+155,Lunch,Mutton Sukka,,"noon, night",http://hasanfoodcatering.in/wp-content/uploads/2024/01/MUTTON-SUKKA.png,True,450,350,94.1
+156,Lunch,Butter Chicken,,"noon, night",https://ts1.mm.bing.net/th?id=OIP.QQLjswYhkCZemRyvqftt4QAAAA&pid=15.1,True,474,474,65.0
+157,Lunch,Paneer Butter Masala,,"noon, night",https://nishkitchen.com/wp-content/uploads/2015/12/PANEER-BUTTER-MASALA-1b-480x480.jpg,True,480,480,48.2
+158,Snacks,Gobi Manchurian,,evening,https://ts1.mm.bing.net/th?id=OIP.uxLMi4bsqp443jw3cxsHewHaHa&pid=15.1,True,474,474,57.9
+159,Snacks,Chicken Manchurian,,"evening, night",https://ts3.mm.bing.net/th?id=OIP.kGm_QiuM967ix0wnqx9xNgAAAA&pid=15.1,True,474,474,64.6
+160,Dinner,Mutton Keema Parotta,,"evening, night",https://www.licious.in/blog/wp-content/uploads/2022/04/Keema-Paratha_24241-min-1-360x360.jpg,True,360,360,29.3
+161,Lunch,Nasi Briyani,,"noon, night",https://l450v.alamy.com/450v/der2ky/nasi-briyani-ayam-chicken-biryani-malaysian-style-malaysia-food-der2ky.jpg,True,450,319,92.2
+162,Lunch,Nasi Kandar Curry Set,,noon,https://ikanmas.in/wp-content/uploads/2021/09/nasikandar-400x400.jpg,True,400,400,43.5
+163,Dinner,Tandoori Chicken,,"evening, night",https://ts2.mm.bing.net/th?id=OIP.V-EsQ-O0WeQu0VSsxCxvzQHaHa&pid=15.1,True,474,474,57.7
+164,Breakfast,Poori Masala Set,,morning,https://ts4.mm.bing.net/th?id=OIP.Rjc0qN59rZuOC7x2MUR73QAAAA&pid=15.1,True,474,474,50.3
+165,Lunch,Chicken Keema Chapati,,"noon, night",https://ts3.mm.bing.net/th?id=OIP.Kp1XYmKPQomu_bUgZCWcuAHaHa&pid=15.1,True,474,474,49.6
+166,Lunch,Nasi Lemak Set,,"morning, noon",https://ts2.mm.bing.net/th?id=OIP.DBO9Nu7-tdg2W1KotqgDAQAAAA&pid=15.1,True,400,400,48.8
+167,Snacks,Mee Goreng Mamak,,"noon, evening, night",https://munchmalaysia.com/wp-content/uploads/2023/04/Malaysian-mee-goreng-mamak-recipe.jpg,True,479,359,32.7
+168,Snacks,Maggie Goreng Pattaya,,"evening, night",https://i.pinimg.com/564x/83/f1/dd/83f1dd7455ff0492a71ba310b46e0d62.jpg,True,480,360,39.0
+169,Lunch,Chicken Rendang,,"noon, night",https://ts1.mm.bing.net/th?id=OIP.tA9oesSuZ9yXkABRRqWZkAHaHa&pid=15.1,True,474,474,54.6
+170,Lunch,Beef Rendang,,"noon, night",https://seniorsatwork.nz/files/pictures/Beef-Rendang-square-FS-28.jpg,True,700,700,148.1
+171,Lunch,Ayam Penyet,,"noon, night",https://thegorbalsla.com/wp-content/uploads/2019/05/Resep-Ayam-Penyet-1.jpg,True,1440,800,139.1
+172,Lunch,Ikan Penyet,,"noon, night",https://ts2.mm.bing.net/th?id=OIP.HS4CpNC8z-oBwdvuTBizKwAAAA&pid=15.1,True,400,400,43.4
+173,Lunch,Sambal Sotong,,"noon, night",https://www.keyingredient.com/media/8d/6e/327dac9a281c6b51ce3bb7bfe574aa628087.jpg/rh/squid-sambal-sotong-squid-cooked-in-chilli-paste.jpg,True,454,454,30.2
+174,Lunch,Char Kway Teow,,"noon, evening",https://images.travelandleisureasia.com/wp-content/uploads/sites/4/2023/01/30155103/hill-street-char-kway-teow-credit-tsubasa-tan-instagram-455x455.jpeg,True,455,455,45.8
+175,Snacks,Chicken Roll,,"evening, night",https://www.recipedose.com/wp-content/uploads/2009/06/chickenroll.jpg,True,400,387,56.2
+176,Snacks,Egg Roll,,"evening, night",https://ts1.mm.bing.net/th?id=OIP._8G2nLKyaumSASLxEynH2AAAAA&pid=15.1,True,474,474,37.4
+177,Snacks,Murtabak Chicken,,"evening, night",https://ts4.mm.bing.net/th?id=OIP.3Ep785LM-a3KOxtdz-_spQAAAA&pid=15.1,True,400,400,34.2
+178,Snacks,Murtabak Mutton,,"evening, night",https://ts1.mm.bing.net/th?id=OIP.FG8i939MDofU61xlrIStagAAAA&pid=15.1,True,400,400,61.2
+179,Snacks,Roti John Chicken,,"evening, night",https://ts1.mm.bing.net/th?id=OIP.QVbDP3vyJuC3NnJeVF3MtwAAAA&pid=15.1,True,400,400,61.6
+180,Snacks,Roti John Mutton,,"evening, night",https://ts4.mm.bing.net/th?id=OIP.SxEgKKUUEYuYQQMOcSTYywAAAA&pid=15.1,True,400,400,59.7
+181,Snacks,Satay Chicken,,"evening, night",https://photos.bigoven.com/recipe/hero/chicken-satay-24.jpg?h=500&w=500,True,480,480,80.3
+182,Snacks,Satay Mutton,,"evening, night",https://ts1.mm.bing.net/th?id=OIP.qM6oqxCchinxVxaANTN7CwAAAA&pid=15.1,True,474,474,55.1
+183,Snacks,Masala Fries,,evening,https://www.topairfryerrecipes.com/wp-content/uploads/2022/05/crunchy-air-fryer-masala-fries-360x450.png,True,360,450,299.4
+184,Snacks,Spicy Chicken Popcorn,,evening,https://i.ytimg.com/vi/Ar05QOjdaI8/hqdefault.jpg,True,480,360,51.2
+185,Snacks,Cheese Fries,,evening,"https://hips.hearstapps.com/hmg-prod/images/cheese-fries-recipe-1-1674497819.jpg?crop=1xw:1xh;center,top&resize=640:*",True,640,640,101.3
+186,Drinks,Teh Tarik Halia,,anytime,https://down-sg.img.susercontent.com/file/sg-11134201-22120-42ci5swkiwkve7,True,441,441,42.2
+187,Drinks,Masala Chai,,anytime,"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/masala-chai-horizontal-2-jpg-1598453328.jpg?crop=0.605xw:0.908xh;0.143xw,0&resize=480:*",True,480,480,34.0
+188,Drinks,Milo Dinosaur,,anytime,https://thecinnamonjar.com/wp-content/uploads/2024/01/Milo-dinosaur-15-of-3-360x360.jpg,True,360,360,28.6
+189,Drinks,Ice Bandung,,anytime,https://minang.sg/wp-content/uploads/2024/01/ICE-BANDUNG-300x300.jpg,True,300,300,27.8
+190,Drinks,Thai Milk Tea,,anytime,https://www.tastythais.com/wp-content/uploads/2019/12/thai-ice-tea-with-boba-423x423.jpg,True,423,423,22.2
+191,Drinks,Ice Kopi Penguin,,anytime,https://ts1.mm.bing.net/th?id=OIP.y6FjEpMU8nVkWeUCS3Ov5AHaGm&pid=15.1,True,474,422,33.9
+192,Drinks,Ice Jelly Lime,,anytime,https://2.bp.blogspot.com/-W4ZyPHWS7nE/VcKmO2QOBII/AAAAAAAAH2s/8EwjtGrlivk/s400/IMG_20150802_131106.jpg,True,400,400,55.3
+193,Lunch,Nasi Goreng Kampung,,"noon, evening",https://www.ajinomoto.com.my/sites/default/files/styles/news_thumbnail/public/content/recipe/image/2021-03/Nasi-Goreng-kampung_0.png?itok=3Pjtb-FZ,True,450,471,342.4
+194,Lunch,Nasi Goreng USA,,"noon, evening",https://i.pinimg.com/564x/3c/62/ff/3c62ffd376f16523b8512bd6d84b38fb.jpg,True,480,360,27.7
+195,Lunch,Nasi Ayam,,noon,https://ts3.mm.bing.net/th?id=OIP.CibIA2KZoxn6WiN8qGp9SwAAAA&pid=15.1,True,473,452,45.8
+196,Lunch,Mee Bandung Muar,,noon,https://4.bp.blogspot.com/-T-nfl-iYpdA/WAR20CRIwjI/AAAAAAAAAf0/lP84xaPV9oMdiZTPRiGgMsy_LgdI5iCgQCLcB/s1600/60.PNG,True,466,300,275.7
+197,Lunch,Laksa Johor,,noon,https://ts1.mm.bing.net/th?id=OIP.JMh-1ZxGyUEwxyvagD6jRwAAAA&pid=15.1,True,474,474,60.7
+198,Breakfast,Roti Canai Telur Bawang,,morning,https://1.bp.blogspot.com/-GkKY_ZCYQ10/Xki1M3le65I/AAAAAAABZZE/BPT1Bg3voncjL8BhFzW-65wNVFBGdqXfQCEwYBhgL/s400/IMG-20200214-WA0001.jpg,True,399,400,64.4
+199,Lunch,Chicken Varuval,,"noon, night",https://tasteasianfood.com/wp-content/uploads/2018/05/chicken-varuval-1-480x480.jpg,True,480,480,57.9
+200,Lunch,Spicy Sambal Prawn,,"noon, night",https://media.istockphoto.com/id/1330164554/photo/spicy-sambal-prawn-malay-food.jpg?s=170667a&w=0&k=20&c=1e6zJ6kh2TxWgzdSoIQzDDz1ub0slI1_FS9qZ1TLjqk=,True,359,479,114.2
+201,Lunch,Ayam Masak Merah,,"noon, night",https://ts2.mm.bing.net/th?id=OIP.XQkcWrgJFSAwZj9x_GZ8WAAAAA&pid=15.1,True,474,474,36.5
+202,Lunch,Telur Itik Masala,,"noon, night",https://i0.wp.com/i0.wp.com/babab.net/img/resepi-kari-telur.jpg,True,400,400,31.0
+203,Dinner,Cheese Naan,,"evening, night",https://ts3.mm.bing.net/th?id=OIP.xSdwis3YVohTvs022gKJgQAAAA&pid=15.1,True,474,474,81.6
+204,Dinner,Garlic Naan,,"evening, night",https://www.sprinklesandsprouts.com/wp-content/uploads/2019/03/Simple-Garlic-Naan-2.jpg,True,650,614,61.1
+205,Dinner,Tandoori Chicken Set,,"evening, night",https://ts1.mm.bing.net/th?id=OIP.5zCEpsz0uhmPNI-bth-CyAAAAA&pid=15.1,True,450,400,33.5
+206,Lunch,Kari Kambing,,"noon, night",https://www.eresep.com/media/images/resep/2020/11/18/6720-Kari Kambing.jpg.1000x650_q85.jpg,True,400,400,53.1
+207,Lunch,Kari Kepala Ikan,,"noon, night",https://seafoodbatam.com/wp-content/uploads/2022/03/kari-kepala-ikan.jpeg,True,474,400,75.0
+208,Dinner,Kambing Soup,,"evening, night",https://tasteasianfood.com/wp-content/uploads/2022/11/Sup-Kambing-recipe-square-480x480.jpeg,True,480,480,63.0
+209,Snacks,Murtabak Cheese,,"evening, night",https://media.istockphoto.com/id/1283516606/photo/murtabak-cheese.jpg?s=170667a&w=0&k=20&c=HXXgtDtY3kaSW8Dhff0mtHb4ysi96cgZEmfCWtwZB_k=,True,444,389,86.3
+210,Snacks,Tosai Tissue,,"morning, evening",https://4.bp.blogspot.com/_OTkUQ94eCQ8/S9e1vIc_3lI/AAAAAAAACok/irxWmEFR3C0/s320/thosai+2+copy.jpg,True,319,320,33.0
+211,Dessert,ABC Ice Kacang,,anytime,https://content.instructables.com/ORIG/F1T/WFS1/HELX6YRC/F1TWFS1HELX6YRC.jpg?frame=1,True,450,484,43.8
+212,Dessert,Cendol,,anytime,https://media.istockphoto.com/id/1385857284/photo/delicious-food-named-cendol-popular-in-malaysia.jpg?s=170667a&w=0&k=20&c=SsSE4wolqOgmQKBs9r89mqLTHKWeKcsV3wxuDbzudUA=,True,359,479,114.7
+213,Drinks,Milo Godzilla,,anytime,https://ts4.mm.bing.net/th?id=OIP.o6v8cuj7T6PEwjdgD34Y0AAAAA&pid=15.1,True,400,400,27.6
+214,Drinks,Bandung Soda,,anytime,https://i.pinimg.com/originals/fb/79/d6/fb79d67f2c281e04fd2428c4c1dacd7c.jpg,True,480,480,37.8
+215,Drinks,Kopi Cham,,anytime,https://shop.zuscoffee.com/cdn/shop/files/Ngupi_KopiCham.png?v=1743747580&width=400,True,400,483,249.1
